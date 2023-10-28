@@ -1,2 +1,2 @@
 # blocks actual youtube
-^youtube.com
+0.0.0.0 youtube.com
